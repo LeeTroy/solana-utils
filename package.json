@@ -2,5 +2,11 @@
   "dependencies": {
     "@solana/spl-name-service": "^0.1.3",
     "@solana/web3.js": "^1.29.0"
-  }
+  },
+  "name": "solana-utils",
+  "version": "0.1.0",
+  "description": "Utilities for interacting with Solana",
+  "repository": "https://github.com/LeeTroy/solana-utils",
+  "author": "Troy Lee <leetroy@gmail.com>",
+  "license": "MIT"
 }
